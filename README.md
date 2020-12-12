@@ -1,4 +1,4 @@
-# t
+# test
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of contents 
   # [Programmer] (#programmer)
@@ -9,23 +9,23 @@
   # [Repository Information] (#repository information)
   # [Contributors] (#contributors)
   ## programmer
-  t'
-  t
+  This is a test of the app
+  russel@gmail.com
   
   ## Project Description
-  t
+  test
   ## License
   MIT
   ## Installation - dependency
-  y
+  testing
   ## Tests
-  t
+  test
   ## Repository Information 
-  t
+  test
   ## Contributors 
-  t
+  test
   ## Questions
   
-  If you have any questions about the repo, please contact me directly at t.
-  You can find more of my work at [t'](https://github.com/t').
+  If you have any questions about the repo, please contact me directly at russel@gmail.com.
+  You can find more of my work at [This is a test of the app](https://github.com/This is a test of the app).
   
